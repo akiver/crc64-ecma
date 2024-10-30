@@ -1,3 +1,4 @@
+import { expect, it } from 'vitest';
 import { crc64 } from '.';
 
 const samples = [

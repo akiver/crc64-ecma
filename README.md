@@ -1,10 +1,12 @@
 # crc64-ecma
 
-Calculate CRC64-ECMA182 hashes using reversed polynomial for NodeJS.
+Calculate CRC64/XZ hashes for NodeJS.
+
+**The module name is `crc64-ecma` but it uses the [CRC64/XZ algorithm](https://reveng.sourceforge.io/crc-catalogue/17plus.htm#crc.cat.crc-64-xz).**
 
 ## Installation
 
-`yarn add crc64-ecma`
+`npm install crc64-ecma`
 
 ## Usage
 
