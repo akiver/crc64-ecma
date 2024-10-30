@@ -1,6 +1,6 @@
 {
   "name": "crc64-ecma",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Calculate CRC64/XZ hashes for NodeJS.",
   "license": "GPL-2.0",
   "author": "AkiVer",
