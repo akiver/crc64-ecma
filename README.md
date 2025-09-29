@@ -21,4 +21,4 @@ console.log(crc.toString(16));
 
 ## License
 
-[GPL v2](LICENSE)
+[MIT](https://github.com/akiver/crc64-ecma/blob/main/LICENSE)
